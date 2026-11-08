@@ -1,0 +1,3 @@
+# Par défaut, GitHub classe les fichiers .h dans le langage C.
+# Ce projet est en C++ : on le précise pour que la barre des langages soit juste.
+*.h linguist-language=C++

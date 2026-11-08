@@ -1,0 +1,15 @@
+# Dossiers de compilation (CMake, CLion)
+build/
+cmake-build-*/
+
+# Configuration des éditeurs
+.idea/
+.vscode/
+
+# Fichiers générés par la compilation
+*.exe
+*.o
+*.obj
+
+# Images produites par le programme (l'aperçu du README est dans images/)
+*.bmp
